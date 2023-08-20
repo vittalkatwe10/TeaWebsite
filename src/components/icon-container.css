@@ -1,0 +1,20 @@
+.icon-container-icon-container {
+  position: relative;
+}
+.icon-container-icon {
+  fill: var(--dl-color-gray-black);
+  width: 16px;
+  height: 16px;
+}
+.icon-container-icon2 {
+  fill: #ffffff;
+  width: 16px;
+  height: 16px;
+  display: none;
+}
+.icon-container-root-class-name {
+  background-color: #D9D9D9;
+}
+
+
+
