@@ -17,7 +17,7 @@ const Home = (props) => {
       </Helmet>
       <section className="home-hero">
         <video
-          src="https://video.wixstatic.com/video/8d325d_067ba62076564511849acd4690306174/480p/mp4/file.mp4"
+          src="/video.mp4"
           loop
           muted
           preload="auto"
