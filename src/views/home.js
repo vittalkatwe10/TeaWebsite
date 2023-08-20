@@ -13,7 +13,7 @@ const Home = (props) => {
     <div className="home-container">
       <Helmet>
         <title>VittalChai</title>
-        <meta property="og:title" content="Togthr template" />
+        <meta property="og:title"/>
       </Helmet>
       <section className="home-hero">
         <video
